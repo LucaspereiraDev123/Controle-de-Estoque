@@ -2,8 +2,6 @@
 
 Sistema de controle de estoque desenvolvido com PHP e MySQL, permitindo cadastrar, listar, editar e excluir produtos de forma simples e intuitiva.
 
-![Tela inicial](imagens/logo.png)
-
 ## Funcionalidades
 
 - **Cadastro de produtos** — registra código, nome, quantidade, volume, fornecedor, preço e imagem
