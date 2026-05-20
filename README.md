@@ -80,10 +80,3 @@ O banco `delta_estoque` contém a tabela `produtos`:
 | `valor` | DECIMAL(10,2) | Preço do produto |
 | `image_url` | VARCHAR(255) | Caminho da imagem |
 
-## Screenshots
-
-> Adicione prints das telas aqui após subir o projeto.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
